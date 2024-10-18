@@ -1,2 +1,10 @@
 # VPF01-Tarefas
-Protótipo de servidor programado em JS para o cadastro de produtos.
+Projeto: API Simples de Gerenciamento de Tarefas, Desenvolver uma API RESTful básica que permita criar, listar e deletar as tarefas. 
+
+Linguagens e ferramentas utilizadas:
+- Node.js
+- Visual Studio
+- Mysql (Xampp)
+- Insomnia
+
+
