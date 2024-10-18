@@ -47,9 +47,9 @@ node server.js
   ```json
   [
     {
-        "title": "Estocar produtos",
-        "description": "adição de produtos em estoques vazios",
-        "created_by": "Cletin da Silva"
+        "title": "Nome da tarefa",
+        "description": "Descrição da tarefa",
+        "created_by": "Nome da pessoa que cadastrou a tarefa"
     }
   ]
   ```
