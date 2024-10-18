@@ -71,7 +71,7 @@ Se tudo estiver tudo certo, você verá uma resposta como:
   }
   ```
 
-Isso indica que a tarefa foi criada com sucesso. O número 11 representa o ID da tarefa inserida.
+Isso indica que a tarefa foi criada com sucesso. O número 1 representa o ID da tarefa inserida.
 
 ### 6. Listando as Tarefas
 Para verificar se a tarefa foi adicionada:
