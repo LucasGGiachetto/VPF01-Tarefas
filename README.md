@@ -22,6 +22,7 @@ Certifique-se de que o projeto está rodando corretamente. O código do projeto 
 - Abra o terminal.
 - Navegue até o diretório do seu projeto.
 - Execute o comando:
-  ```bash
+
+```bash
 node seuArquivo.js
 ```
